@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm Vue frontend developer; <br> Portfolio: danelloptz.github.io; <br>Currently working as a frontend developer and a project manager on intelektaz.com; <br>I'm already have almost a year of commercial development; <br>20 years old CS student;<br>Location: Petrozavodsk, Russia;<br>Knowledge: JavaScript, Vue, Node (a little bit), scss, rest, python; <br> English Level: B1 
+I'm Vue frontend developer;  
+Portfolio: [danelloptz.github.io](https://danelloptz.github.io);  
+Currently working as a frontend developer and a project manager on [intelektaz.com](https://intelektaz.com);  
+I already have almost a year of commercial development experience;  
+20 years old CS student;  
+Location: Petrozavodsk, Russia;  
+Knowledge: JavaScript, Vue, Node (a little bit), scss, rest, python;  
+English Level: B1
 
 
 ## 🌐 Socials:
@@ -15,11 +22,6 @@ I'm Vue frontend developer; <br> Portfolio: danelloptz.github.io; <br>Currently 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=danelloptz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danelloptz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=danelloptz&icon=1&color=0)](https://visitcount.itsvg.in)
